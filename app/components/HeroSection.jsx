@@ -17,7 +17,7 @@ const HeroSection = () => {
                             sequence={[
                                 'Gaby',
                                 1000,
-                                'Web Developer',
+                                'a Web Developer',
                                 1000,
                             ]}
                             wrapper="span"
@@ -25,13 +25,13 @@ const HeroSection = () => {
                             repeat={Infinity}
                         />
                     </h1>
-                    <p className="text-[#ADB7BE] text-base sm:text-lg mb-10 lg:text-xl">
+                    {/* <p className="text-[#ADB7BE] text-base sm:text-lg mb-10 lg:text-xl">
                         asdadsasdadwda awev w waeaweaweae
-                    </p>
+                    </p> */}
                     <div>
                         <Link
                             href={"/#contact"}
-                            className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white">
+                            className="px-6 py-3 inline-block w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white">
                                 Work with me
                         </Link>
                         <Link

@@ -6,30 +6,30 @@ import ProjectTag from "./ProjectTag";
 const projectsData = [
     {
         id: 1,
-        title: "Pokedex",
-        description: "",
-        image: "/images/projects/1.png",
-        tag: ["All","Web"],
-        gitUrl: "https://github.com/mgviera92/PI-Pokemon",
-        previewUrl: "https://pi--pokedex.vercel.app"
-    },
-    {
-        id: 2,
         title: "E-commerce",
         description: "",
-        image: "/images/projects/2.png",
+        image: "/images/projects/1.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/mgviera92/ecommerce-front",
         previewUrl: "https://ecommerce-front-mgviera92.vercel.app"
     },
     {
-        id: 3,
+        id: 2,
         title: "Admin Panel",
         description: "",
-        image: "/images/projects/3.png",
+        image: "/images/projects/2.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/mgviera92/ecommerce-adminPanel",
         previewUrl: "https://ecommerce-admin-panel-mgviera92.vercel.app/"
+    },
+    {
+        id: 3,
+        title: "Pokedex",
+        description: "",
+        image: "/images/projects/3.png",
+        tag: ["All","Web"],
+        gitUrl: "https://github.com/mgviera92/PI-Pokemon",
+        previewUrl: "https://pi--pokedex.vercel.app"
     },
 ];
 
