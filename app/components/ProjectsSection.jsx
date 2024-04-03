@@ -31,6 +31,15 @@ const projectsData = [
         gitUrl: "https://github.com/mgviera92/PI-Pokemon",
         previewUrl: "https://pi--pokedex.vercel.app"
     },
+    {
+        id: 4,
+        title: "Jobs App",
+        description: "",
+        image: "/images/projects/4.png",
+        tag: ["Web"],
+        gitUrl: "https://github.com/mgviera92/jobs-app",
+        previewUrl: "https://jobs-app-mu.vercel.app/"
+    },
 ];
 
 const ProjectsSection = () => {
