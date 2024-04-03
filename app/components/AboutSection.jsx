@@ -16,6 +16,7 @@ const TAB_DATA = [
                 <li>TailwindCSS</li>
                 <li>Redux</li>
                 <li>Express</li>
+                <li>React Native</li>
                 <li>PostgreSQL</li>
                 <li>SCRUM Methodology</li>
             </ul>
